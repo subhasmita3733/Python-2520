@@ -529,7 +529,7 @@
     -> pass : acts as a Placeholder, for doing nothing              
 
 
-    17th Sep 2025
+17th Sep 2025
 =============
 
     -> Strings 
@@ -574,4 +574,19 @@
         Stop = default → beginning ("P")
         Step = -1 (reverse direction)
 
-    
+18th Sep 2025
+=============
+
+    -> Student Grade Tracker Solution
+
+    -> String Formatting
+
+    -> String Concatenation
+
+    -> String Repetition
+
+    -> String Immutability 
+
+    -> String Methods 
+
+        -> String class(datatype) provides various methods    
