@@ -590,3 +590,75 @@
     -> String Methods 
 
         -> String class(datatype) provides various methods    
+
+19th Sep 2025
+=============
+
+    -> String Methods Continued 
+
+    -> App Req On Strings
+
+20th Sep 2025
+=============
+
+>> Simple datatype :-(Can hold one value )
+   -> These data types represent single, atomic values. They are the fundamental building blocks for more complex structures.
+      
+      Characteristics:-
+         -> Typically immutable (their value cannot be changed after creation).
+          -> Represent a single piece of information.
+
+>> Complex Data Types:-( Can hold multiple values )
+
+  -> These data types are collections or structures that can hold multiple values, often of different simple data types. They are built upon simple data types.
+
+  Characteristics:-
+     -> Can be mutable or immutable depending on the specific type (e.g., lists are mutable, tuples are immutable).
+     -> Can store multiple values, potentially of different data types.
+     -> Provide methods and operations for managing their contained elements.
+
+ -> In python(part of standard library) we use following classes to work with Complex Data types
+
+        -> List 
+        -> Tuple 
+        -> Dictionary
+        -> Set 
+
+
+ -> list :-
+
+        -> List is a data structure which allows you to Store multiple values in a single variable
+
+        -> Lists are one of 4 built-in data types in Python used to store collections of data, the other 3 are Tuple, Set, and Dictionary, all with different qualities and usage.
+
+        -> Lists are represented using [ ] or use list class ==> list()
+
+        -> Accessing the data in lists 
+
+            -> Like in Strings, we have index which starts from 0 
+
+            -> Use index number to access individual elements
+
+            -> Both Positive and Negative Indexing 
+
+            -> Indexing is same as Strings
+
+            -> Slicing is same as Strings 
+
+                 slice[start: stop: step]
+            
+                    start : from zero included 
+                    stop : at end excluded
+                    step : is 1 by default  
+
+        -> Looping 
+
+        -> Operators 
+
+        -> Conditionals 
+
+        -> Duplicates Allowed 
+
+        -> List Methods / operations
+
+                   
